@@ -1,0 +1,8 @@
+# My_own_scope_based_on_serial_plotter
+
+Language description: PL
+
+    Oscyloskop bazujący na Arduino i wbudowanej kreślarce. 
+W założeniu, ma służyć do wizualizacji przebiegów sygnałów podczas nauki elektroniki. 
+
+! badane urządzenie musi być zasilane przez Arduino !
